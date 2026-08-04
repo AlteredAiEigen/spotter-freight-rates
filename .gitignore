@@ -1,0 +1,8 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# regenerable trained models
+artifacts/*.joblib
